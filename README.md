@@ -1,9 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/13915148/212045180-85bca8e2-daaa-42d5-a6f4-b38ba73311c3.jpg"/></p>
-<p align="center">
-  <strong>Struggle.</strong>
-  <strong>Endure.</strong>
-  <strong>Contend.</strong>
-</p>
+
+<h1 align="center">Struggle. Endure. Contend.</h1>
+
 <!--
 **Extellion/Extellion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!
 
